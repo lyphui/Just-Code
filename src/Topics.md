@@ -320,7 +320,7 @@
 - [Kth Smallest Element in a Sorted Matrix](./0378.kth-smallest-element-in-a-sorted-matrix)
 - [Last Stone Weight](./1046.last-stone-weight)
 ## Linked List
-- [Add Two Numbers](./0002.add-two-numbers)
+- [Add Two Numbers](0002.add-two-numbers_listnode)
 - [Remove Nth Node From End of List](./0019.remove-nth-node-from-end-of-list)
 - [Merge Two Sorted Lists](./0021.merge-two-sorted-lists)
 - [Merge k Sorted Lists](./0023.merge-k-sorted-lists)
@@ -351,7 +351,7 @@
 - [Next Greater Node In Linked List](./1019.next-greater-node-in-linked-list)
 - [Remove Zero Sum Consecutive Nodes from Linked List](./1171.remove-zero-sum-consecutive-nodes-from-linked-list)
 ## Math
-- [Add Two Numbers](./0002.add-two-numbers)
+- [Add Two Numbers](0002.add-two-numbers_listnode)
 - [Reverse Integer](./0007.reverse-integer)
 - [String to Integer (atoi)](./0008.string-to-integer-atoi)
 - [Palindrome Number](./0009.palindrome-number)

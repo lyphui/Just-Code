@@ -53,16 +53,16 @@
 - 我根据题目类型对 LeetCode 前 400 题进行初步分类，再根据题目的相关关系递进地排序，如果你选择仔细刷题，那么随便选择一个题目类型跟着我排的顺序刷题就可以了。推荐优先完成数组、链表和二叉树等基础数据结构的题目。
 - 如果希望根据题号而不是类型查询我的题解，请继续往下划划划（爬虫挂了 部分未更新，建议按照tag找）。
 
- - [LeetCode 分类总目录](./LeetCode/README.md)
- - [1. 链表 Linked_List](./LeetCode/Linked_List.md)
- - [2. 树 Tree](./LeetCode/Tree.md)
- - [3. 动态规划 Dynamic_Programming](./LeetCode/Dynamic_Programming.md)
- - [4. 数组 Array](./LeetCode/Array.md)
- - [5. 广度优先搜索 BFS & 深度优先搜索 DFS](./LeetCode/DFS%26BFS.md)
- - [6. 二分搜索 Binary_Search](./LeetCode/Binary_Search.md)
- - [7. 数理 Math](./LeetCode/Math.md)
- - [9. 字符串 String](./LeetCode/String.md)
- - [10.位运算 Bit_Manipulation](./LeetCode/Bit_Manipulation.md)
+ - [LeetCode 分类总目录](coding/README.md)
+ - [1. 链表 Linked_List](coding/Linked_List.md)
+ - [2. 树 Tree](coding/Tree.md)
+ - [3. 动态规划 Dynamic_Programming](coding/Dynamic_Programming.md)
+ - [4. 数组 Array](coding/Array.md)
+ - [5. 广度优先搜索 BFS & 深度优先搜索 DFS](coding/DFS%26BFS.md)
+ - [6. 二分搜索 Binary_Search](coding/Binary_Search.md)
+ - [7. 数理 Math](coding/Math.md)
+ - [9. 字符串 String](coding/String.md)
+ - [10.位运算 Bit_Manipulation](coding/Bit_Manipulation.md)
 
 ### 字节跳动面经总结算法题
 
@@ -70,14 +70,14 @@
  - 因为字节跳动的题目分类必须买 LeetCode 会员才可以看，所以我把题目都添加了一个 list ，然后点击 [字节跳动分类](https://leetcode.com/list/x7kpxvli) 就可以查看我分享的题目 list 了。因为是英文版LeetCode所以第一次打开可能重定向跳转到中国力扣官网，关闭重新打开即可。
 
  **分类如下：**
- - [总目录](./BAT/Algorithm.md)
- - [链表](./BAT/Algorithm.md/#链表)
- - [二叉树](./BAT/Algorithm.md/#二叉树)
- - [动态规划](./BAT/Algorithm.md/#动态规划)
- - [二分查找](./BAT/Algorithm.md/#二分查找)
- - [排序算法](./BAT/Algorithm.md/#排序算法)
- - [双指针](./BAT/Algorithm.md/#双指针)
- - [设计类](./BAT/Algorithm.md/#设计类)
+ - [总目录](gaint/Algorithm.md)
+ - [链表](gaint/Algorithm.md/#链表)
+ - [二叉树](gaint/Algorithm.md/#二叉树)
+ - [动态规划](gaint/Algorithm.md/#动态规划)
+ - [二分查找](gaint/Algorithm.md/#二分查找)
+ - [排序算法](gaint/Algorithm.md/#排序算法)
+ - [双指针](gaint/Algorithm.md/#双指针)
+ - [设计类](gaint/Algorithm.md/#设计类)
 
 
 
@@ -95,7 +95,7 @@
 | # | Title | Solution | Acceptance | Difficulty | Topics
 |:--:|:-----:|:---------:|:----:|:----:|:----:|
 | 0001 | [Two Sum](./src/0001.two-sum/two-sum.md) | [Python3](./src/0001.two-sum/two-sum.py)  | 44.77% | Easy | [Array](./src/Topics.md#array) &#124; [Hash Table](./src/Topics.md#hash-table) |
-| 0002 | [Add Two Numbers](./src/0002.add-two-numbers/add-two-numbers.md) | [Python3](./src/0002.add-two-numbers/add-two-numbers.py)  | 32.23% | Medium | [Linked List](./src/Topics.md#linked-list) &#124; [Math](./src/Topics.md#math) |
+| 0002 | [Add Two Numbers](src/0002.add-two-numbers_listnode/add-two-numbers.md) | [Python3](src/0002.add-two-numbers_listnode/add-two-numbers.py)  | 32.23% | Medium | [Linked List](./src/Topics.md#linked-list) &#124; [Math](./src/Topics.md#math) |
 | 0003 | [Longest Substring Without Repeating Characters](./src/0003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.md) | [Python3](./src/0003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py)  | 29.15% | Medium | [Hash Table](./src/Topics.md#hash-table) &#124; [Two Pointers](./src/Topics.md#two-pointers) &#124; [String](./src/Topics.md#string) &#124; [Sliding Window](./src/Topics.md#sliding-window) |
 | 0005 | [Longest Palindromic Substring](./src/0005.longest-palindromic-substring/longest-palindromic-substring.md) | [Python3](./src/0005.longest-palindromic-substring/longest-palindromic-substring.py)  | 28.32% | Medium | [String](./src/Topics.md#string) &#124; [Dynamic Programming](./src/Topics.md#dynamic-programming) |
 | 0006 | [ZigZag Conversion](./src/0006.zigzag-conversion/zigzag-conversion.md) | [Python3](./src/0006.zigzag-conversion/zigzag-conversion.py)  | 33.91% | Medium | [String](./src/Topics.md#string) |
