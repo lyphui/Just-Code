@@ -17,6 +17,7 @@ class Solution:
                 dict[v] = i
             else:
                 return [dict[another],i]
+
 nums = [2, 90,3,65,7, 12, 15]
 target = 18
 s=Solution()
