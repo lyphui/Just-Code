@@ -5,13 +5,7 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        print(matrix)
-        num=len(matrix)
-        for i in range(num):
-            for j in range(i):
-                matrix[j][i],matrix[i][j]=\
-                    matrix[i][j],matrix[j][i]
-        print(matrix)
+        pass
 
 
 matrix = [
